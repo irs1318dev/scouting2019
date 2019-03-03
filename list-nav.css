@@ -1,0 +1,25 @@
+ul#list-nav {
+  margin:20px;
+  padding:0;
+  list-style:none;
+  width:525px;
+}
+ul#list-nav li {
+  display:center
+}
+ul#list-nav li a {
+ text-decoration:none;
+ padding:5px 0;
+ width:100px;
+ background:#d633ff;
+ color:#ffff00;
+ float:left;
+}
+ul#list-nav li a {
+  text-align:center;
+  border-left:1px solid #fff;
+}
+ul#list-nav li a:hover {
+  background:#ecb3ff;
+  color:#000
+}
